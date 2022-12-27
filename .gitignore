@@ -7,6 +7,11 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
+filewatch.cmake
 
 #visual studio
 .vs
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj
