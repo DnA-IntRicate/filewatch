@@ -12,3 +12,7 @@ build
 
 #visual studio
 .vs
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj
